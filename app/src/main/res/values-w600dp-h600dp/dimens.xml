@@ -2,4 +2,5 @@
 <resources>
     <dimen name="largura_bandeira">300dp</dimen>
     <dimen name="largura_comida">300dp</dimen>
+    <dimen name="tamanho_fonte">60sp</dimen>
 </resources>
